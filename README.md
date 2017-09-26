@@ -1,0 +1,2 @@
+# derneklesme
+Dernek yönetmeliği çalışması
